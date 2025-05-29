@@ -20,7 +20,11 @@ ul a{
     font-family: Tahoma, sans-serif;
 }
 
+ul a:hover{
+color:#5D7C6B ;
+}
+
+
 ul li{
     margin-bottom: 10px;
 }
-
