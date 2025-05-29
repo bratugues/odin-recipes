@@ -48,9 +48,14 @@ li{
     color:#4E3B31 ;
     border: 1px solid #4E3B31;
     padding: 3px;
+    display: block;
+    max-width: 100px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .back-button:hover{
     color: white;
     background-color: #4E3B31;
+    
 }
